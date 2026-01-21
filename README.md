@@ -1,4 +1,3 @@
-
 # Netflix Clone 🎬
 
 A Netflix clone built using React, TMDB API, and Firebase for authentication.
@@ -16,10 +15,7 @@ A Netflix clone built using React, TMDB API, and Firebase for authentication.
 - CSS
 
 ## Live Demo
-(Your Netlify link here)
-
-## Screenshots
-
+https://netflicks-zone.netlify.app
 
 ## How to Run Locally
 1. Clone the repo
